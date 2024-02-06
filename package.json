@@ -1,6 +1,6 @@
 {
-  "name": "@pmndrs/vanilla",
-  "version": "0.0.0-semantic-release",
+  "name": "@vadzim-rakevich-softensity/splat-utils",
+  "version": "1.0.0",
   "private": true,
   "publishConfig": {
     "access": "public"
