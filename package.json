@@ -13,13 +13,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pmndrs/drei-vanilla.git"
+    "url": "git+https://github.com/vadzim-rakevich-softensity/drei-vanilla.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pmndrs/drei-vanilla/issues"
+    "url": "https://github.com/vadzim-rakevich-softensity/drei-vanilla/issues"
   },
-  "homepage": "https://github.com/pmndrs/drei-vanilla",
+  "homepage": "https://github.com/vadzim-rakevich-softensity/drei-vanilla",
   "maintainers": [
     "VishaL (https://github.com/vis-prime)",
     "Paul Henschel (https://github.com/drcmda)",
