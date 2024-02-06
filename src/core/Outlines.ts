@@ -1,5 +1,4 @@
 import * as THREE from 'three'
-import { toCreasedNormals } from 'three/examples/jsm/utils/BufferGeometryUtils'
 import { shaderMaterial } from './shaderMaterial'
 
 export type OutlinesProps = {
@@ -98,7 +97,7 @@ export function Outlines({
         mesh.material = new OutlinesMaterial({ side: THREE.BackSide })
         group.add(mesh)
       }
-      mesh.geometry = angle ? toCreasedNormals(parent.geometry, angle) : parent.geometry
+      mesh.geometry = angle ? parent.geometry : parent.geometry
     }
   }
 
